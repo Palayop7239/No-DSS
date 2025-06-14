@@ -59,7 +59,7 @@ Replace the 'database_name' by the name of your database and also replace 'admin
  ```
 Once all requirements are installed, you can run the server by running :
  ```
- npm start
+ node app.js
  ```
 # Setting Up your Roblox Game
 This is the easiest part <br>
