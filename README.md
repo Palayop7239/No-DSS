@@ -63,7 +63,7 @@ Once all requirements are installed, you can run the server by running :
  ```
 # Setting Up your Roblox Game
 This is the easiest part <br>
-<p><b>1)Get the script [here](https://create.roblox.com/store/asset/102821444775405) and import it to your game</b></p>
+<p><b>1)Get the script (https://create.roblox.com/store/asset/102821444775405 or from the rbxm file) and import it to your game</b></p>
 <p><b>2)Place it into ServerScriptService and open the No-DSS script</b></p>
 
 Change the "ip" variable by your server public ip and your forwarded port (example : 192.168.1.1:50065) <br>
